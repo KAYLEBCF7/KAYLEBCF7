@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @KAYLEBCF7
+- 👋 Hi, I’m @KAY_LEB
 - 👀 I’m interested in Coding.
+- 💻 I'm also into UI/UX design
 - 🌱 I’m currently learning Java script..
-- 💞️ I’m looking to collaborate on amything possible.
+- 💞️ I’m looking to collaborate on anything possible.
 - 📫 How to reach me fortnatcaleb@gmail.com...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
