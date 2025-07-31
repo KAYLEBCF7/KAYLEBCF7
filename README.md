@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KAY_LEB
+- 👋 Hi, I’m @Caleb
 - 👀 I’m interested in Coding.
 - 💻 I'm also into UI/UX design
 - 🌱 I’m currently learning Java script..
